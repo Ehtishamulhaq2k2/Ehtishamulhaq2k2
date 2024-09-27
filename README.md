@@ -28,7 +28,7 @@
             <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://api.whatsapp.com/send/?phone=923436701575">
             <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png" alt="WhatsApp"></a>
-        <a style="margin-left: 10px;" target="_blank" href="//https://www.fiverr.com/users/ehtisham2k2">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.fiverr.com/ehtisham2k2">
             <img src="https://img.icons8.com/?size=40&id=ngc6JsBomclm&format=png&color=000000" alt="Fiverr"></a>
     </div>
 </p>
