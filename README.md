@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/React.js-React-blue?style=for-the-badge&logo=react" alt="React.js" />
   <img src="https://img.shields.io/badge/React_Native-React%20Native-blue?style=for-the-badge&logo=react" alt="React Native" />
   <img src="https://img.shields.io/badge/Firebase-Real%20Time%20Database-yellow?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase-Cloud%20Functions-orange?style=for-the-badge&logo=firebase" alt="Firebase Cloud Functions" />  
+  <img src="https://img.shields.io/badge/Firebase-Push%20Notifications-red?style=for-the-badge&logo=firebase" alt="Firebase" />  
   <img src="https://img.shields.io/badge/GraphQL-API%20Integration-blue?style=for-the-badge&logo=graphql" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Redux-State%20Management-blue?style=for-the-badge&logo=redux" alt="Redux" />
 </p>
