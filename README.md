@@ -16,24 +16,18 @@
 <!-- - 📄 Know about my experiences and projects on my [Resume](https://ehtishamulhaq2k2.github.io/My-Resume/Abdullah%20Faheem%20Resume.pdf) -->
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ehtisham-ul-haq2k2">
-            <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ehtishamulhaq2k2">
-            <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/not.shaami/">
-            <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://api.whatsapp.com/send/?phone=923436701575">
-            <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png" alt="WhatsApp"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20581018/ehtisham-ul-haq">
-            <img src="https://img.icons8.com/color/stackoverflow" alt="StackOverFlow"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.fiverr.com/ehtisham2k2">
-            <img src="https://img.icons8.com/?size=40&id=ngc6JsBomclm&format=png&color=000000" alt="Fiverr"></a>
-    </div>
-</p>
+## 🌐 Get in Touch
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923436701575&text=Hi!%Ehtisham!%20I%20came%20across%20your%20profile.%20Let%27s%20have%20a%20chat) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-ul-haq2k2) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20581018/ehtisham-ul-haq) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ehtisham_2k2)
+[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ehtishamulhaq2k2) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ehtisham2k2)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a3b81b99650cc166)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/not.shaami)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552000510064)
+
 
 <h3 align="center">My GitHub Stats 📈</h3>
 <p align="center">
