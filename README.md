@@ -12,7 +12,7 @@
 - 🤝 I’m available for freelancing and collaboration opportunities.
 - 🌱 I’m currently learning advanced TypeScript techniques and exploring new React Native features.
 - 💬 Ask me about React.js, React Native, TypeScript, and API Integration
-- 📫 How to reach me: [Ehtishamulhaq@innspirovatetech.com](ehtishamulhaq@innspirovatetech.com)
+- 📫 How to reach me: [ehtishamulhaq@innspirovatetech.com](ehtishamulhaq@innspirovatetech.com)
 <!-- - 📄 Know about my experiences and projects on my [Resume](https://ehtishamulhaq2k2.github.io/My-Resume/Abdullah%20Faheem%20Resume.pdf) -->
 
 <br/>
