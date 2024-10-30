@@ -27,7 +27,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a3b81b99650cc166)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552000510064)
 
-<h3 align="center">My GitHub Stats 📈</h3>
+<h3 align="center">My GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtishamulhaq2k2&layout=compact" alt="Languages Used" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtishamulhaq2k2&theme=radical" alt="Ehtisham Ul Haq's GitHub Streak" />
