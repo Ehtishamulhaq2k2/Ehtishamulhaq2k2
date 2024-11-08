@@ -7,12 +7,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Co-Founder & Full Stack React & React-Native Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
-- 🌱 I’m currently working on cross-platform mobile apps with React Native and building dynamic web applications with React.js
-- 🤝 I’m available for freelancing and collaboration opportunities.
-- 🌱 I’m currently learning advanced TypeScript techniques and exploring new React Native features.
-- 💬 Ask me about React.js, React Native, TypeScript, and API Integration
-- 📫 How to reach me: [Ehtishamulhaq@innspirovatetech.com](mailto:ehtishamulhaq@innspirovatetech.com)
+- 🔭 I am the Co-Founder & Full Stack Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
+- 🌱 Currently, I’m focused on developing cross-platform mobile apps with React Native and building dynamic web applications with React.js.
+- 🤝 Open for freelancing and collaboration opportunities.
+- 🌱 Expanding my skills by learning advanced TypeScript techniques and exploring the latest React Native updates.
+- 💬 Feel free to ask me about React.js, React Native, TypeScript, and API Integration.
+- 📫 Reach out to me at [Ehtishamulhaq@innspirovatetech.com](mailto:ehtishamulhaq@innspirovatetech.com)
 
 <br/>
 
