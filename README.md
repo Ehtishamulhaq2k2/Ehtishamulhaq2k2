@@ -30,7 +30,8 @@
 <h3 align="center">My GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtishamulhaq2k2&layout=compact" alt="Languages Used" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtishamulhaq2k2&theme=radical" alt="Ehtisham Ul Haq's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehtishamulhaq2k2" alt="Ehtisham Ul Haq's GitHub Streak" />
+
 </p>
 
 <h3 align="center">Languages and Tools 🛠️</h3>
