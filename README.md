@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Ehtishamulhaq2k2" target="blank">Ehtisham Ul Haq</a></h1>
-<h3 align="center">A passionate Full Stack React & React-Native Developer from Pakistan 🇵🇰</h3>
+<h1 align="left">Hi 👋, I'm <a href="https://github.com/Ehtishamulhaq2k2" target="blank">Ehtisham Ul Haq</a></h1>
+<h3 align="left">A passionate Full Stack React & React-Native Developer from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamulhaq2k2&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamulhaq2k2" /> </p>
 
