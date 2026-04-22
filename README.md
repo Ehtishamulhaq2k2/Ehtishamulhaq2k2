@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm <a href="https://github.com/Ehtishamulhaq2k2" target="blank">Ehtisham Ul Haq</a></h1>
-<h3 align="left">A passionate Full Stack React & React-Native Developer from Pakistan 🇵🇰</h3>
+<h3 align="left">A passionate React Native & Full Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamulhaq2k2&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamulhaq2k2" /> </p>
 
@@ -7,12 +7,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I am the Co-Founder & Full Stack Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
-- 🌱 Currently, I’m focused on developing cross-platform mobile apps with React Native and building dynamic web applications with React.js.
-- 🤝 Open for freelancing and collaboration opportunities.
-- 🌱 Expanding my skills by learning advanced TypeScript techniques and exploring the latest React Native updates.
-- 💬 Feel free to ask me about React.js, React Native, TypeScript, and API Integration.
-- 📫 Reach out to me at [Ehtishamulhaq@innspirovatetech.com](mailto:ehtishamulhaq@innspirovatetech.com)
+- React Native Mobile App Developer at <a href="https://kivyx.com/" target="blank">Kivyx Technologies</a>, building scalable cross-platform applications.
+- Specialized in React Native, creating high-performance, production-ready mobile apps for both iOS & Android.
+- Currently focused on mobile-first development, optimizing app performance, UI/UX, and seamless API integrations.
+- Continuously exploring advanced React Native architecture, animations, native modules, and modern TypeScript patterns.
+- Open to freelance mobile app projects and collaborations, especially in React Native ecosystems.
+- Ask me about React Native, mobile app performance optimization, TypeScript, and backend integrations (REST APIs, Firebase, etc.)
+- Reach out to me at [Ehtishamulhaq@innspirovatetech.com](mailto:ehtishamulhaq@innspirovatetech.com)
 
 <br/>
 
